@@ -1,0 +1,39 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments / editors
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Generated RL artifacts
+*.mp4
+*.gif
+*.avi
+checkpoints/
+checkpoint/
+results/
+runs/
+videos/
+wandb/
+
+# Model/data artifacts
+*.pt
+*.pth
+*.ckpt
+*.npz
+
+# Reports / archives
+*.pdf
+*.doc
+*.docx
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
