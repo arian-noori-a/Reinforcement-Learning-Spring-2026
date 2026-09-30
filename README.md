@@ -1,4 +1,4 @@
-﻿# Reinforcement Learning — Spring 2026
+# Reinforcement Learning — Spring 2026
 
 Practical assignments for **Reinforcement Learning**, implemented mainly with Python, PyTorch, and Gymnasium.
 
@@ -38,4 +38,4 @@ HW8/
 - pandas
 - Matplotlib
 
-The repository contains the practical notebooks and supporting Python source files only. Generated videos, checkpoints, result archives, and submission archives are intentionally excluded.
+The repository contains the practical notebooks, supporting Python source files, and selected generated rollout/training videos. Checkpoints, result archives, submission archives, and report documents are intentionally excluded.
